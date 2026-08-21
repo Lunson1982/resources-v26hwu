@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Lunson1982.github.io/resources-v26hwu/sitemap.xml
